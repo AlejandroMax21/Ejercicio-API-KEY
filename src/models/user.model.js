@@ -1,8 +1,8 @@
 import { randomUUID } from "crypto";
 
 let users = [
-    {id: randomUUID(), name: "Jorge", email: "JSoria@a.com", active: true, age: 23},
-    {id: randomUUID(), name: "Sebastian", email: "SSanchez@a.com", active: true, age: 18},
+    {id: randomUUID(), name: "Alejandro", email: "AJoya@a.com", active: true, age: 24},
+    {id: randomUUID(), name: "Dennis", email: "DPanuco@a.com", active: true, age: 18},
     {id: '1', name: "pepito", email: "pepito@a.com", active: true, age: 1},
 ];
 
